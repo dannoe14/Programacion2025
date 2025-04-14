@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Página-1" id="yav311ULGjdRRlGJT4Dj">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-1" target="NJitlRvQpzR0PnGXpqSP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-2" target="NJitlRvQpzR0PnGXpqSP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-2" value="Ingrese el sueldo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-4" target="NJitlRvQpzR0PnGXpqSP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-4" value="A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="85" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-6" target="NJitlRvQpzR0PnGXpqSP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-6" value="Ingrese el numero de Hijos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-8" target="NJitlRvQpzR0PnGXpqSP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-8" value="B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="85" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-10" target="NJitlRvQpzR0PnGXpqSP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-10" value="C=80*B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJitlRvQpzR0PnGXpqSP-12" target="NJitlRvQpzR0PnGXpqSP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-12" value="El sueldo total es de A+C" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJitlRvQpzR0PnGXpqSP-14" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
